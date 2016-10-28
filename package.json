@@ -1,6 +1,6 @@
 {
   "name": "fcc-advanced-nodejs-express-helper",
-  "version": "1.0.1",
+  "version": "0.1.0",
   "description": "module to be included in the challenger's package.json for the advenced node.js/express challenges",
   "main": "index.js",
   "dependencies": {
