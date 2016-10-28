@@ -308,8 +308,10 @@ function initialize(dbUri) {
   });  
 }
 
-module.exports = {
+var db = {
   init: initialize,
   User: mongoose.model('User', userSchema),
   Message: mongoose.model('Message', messageSchema)
 };
+
+module.exports = db;
