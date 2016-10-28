@@ -1,0 +1,33 @@
+{
+  "name": "fcc-advanced-nodejs-express-helper",
+  "version": "1.0.0",
+  "description": "module to be included in the challenger's package.json for the advenced node.js/express challenges",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "mongoose": "^4.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelKyriako/FccAdvancedNodejsExpressHelper.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "fcc",
+    "node.js",
+    "express",
+    "mongoose",
+    "bcrypt"
+  ],
+  "author": "angelkyriako",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelKyriako/FccAdvancedNodejsExpressHelper/issues"
+  },
+  "homepage": "https://github.com/AngelKyriako/FccAdvancedNodejsExpressHelper#readme"
+}
